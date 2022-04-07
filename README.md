@@ -1,3 +1,37 @@
+#Se completa el tutorial sin embargo se obtiene un error que no pude determinar que lo causaba
+
+_________________________________________________________________________________________________________________________
+
+![error](https://user-images.githubusercontent.com/96598171/162121805-447b8f71-e567-4661-b10a-3cdd22c6d526.PNG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
